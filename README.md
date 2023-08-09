@@ -1,6 +1,6 @@
   # wspasoe12
   
-  Estou aprendendo a como utilizar o Progress OpenEdge 12, dei o nome desse projeto de wspasoe12, mas não se atentem a esse detalhe podem usar o nome que quiserem. Vou colocar abaixo algumas instruções do que foi feito até o momento e conforme vou evoluindo vou subindo os arquivos e registrando tudo para não perder nenhum detalhe. Assim fixo mais o que estou praticando e compartilho com quem tiver interessse.
+  Estou aprendendo a como utilizar o Progress OpenEdge 12, criei o nome desse projeto de wspasoe12, mas não se atentem a esse detalhe podem usar o nome que quiserem. Vou colocar abaixo algumas instruções do que foi feito até o momento e conforme vou evoluindo vou subindo os arquivos e registrando tudo para não perder nenhum detalhe. Assim fixo mais o que estou praticando e compartilho com quem tiver interessse.
   
   Estou utilizando windows10 para esta projeto. 
   Programas a ser instalados, conforme ordem abaixo:
