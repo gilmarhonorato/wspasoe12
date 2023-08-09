@@ -8,6 +8,7 @@
   1- JAVA - Versão 11
   
       https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html
+  
   Instruções para definir Variáveis ​​de Ambiente.
   
       https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26
