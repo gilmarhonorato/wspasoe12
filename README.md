@@ -1,8 +1,7 @@
 # wspasoe12
 Projeto Progress OpenEdge 12
 
-Estou utilizando windows10 para esta projeto
-
+Estou utilizando windows10 para esta projeto 
 Programas a ser instalados, conforme ordem abaixo:
   1- JAVA - Versão 11
         link: https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html
